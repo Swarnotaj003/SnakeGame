@@ -7,10 +7,10 @@ objects, and then use them to develop a Desktop application. The packages Java S
 Interface (GUI).
 
 ## FEATURES
-The up, down, left, and right keys will be used to give directions to the snake.
-The current and the best scores are displayed.
-If the snake hits the boundary/wall or hits its own tail, it dies i.e., game over.
-The cherry is placed at random positions every time.
+- The up, down, left, and right keys will be used to give directions to the snake.
+- The current and the best scores are displayed.
+- If the snake hits the boundary/wall or hits its own tail, it dies i.e., game over.
+- The cherry is placed at random positions every time.
 
 ## FOLDER STRUCTURE
 
