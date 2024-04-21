@@ -12,7 +12,7 @@ Interface (GUI).
 •	If the snake hits the boundary/wall or hits its own tail, it dies i.e., game over.
 •	The cherry is placed at random positions every time.
 
-## Folder Structure
+## FOLDER STRUCTURE
 
 The workspace contains two folders by default, where:
 - `src`: the folder to maintain sources
